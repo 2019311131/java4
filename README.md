@@ -79,7 +79,7 @@ public class java4 {
 	        Student xm = new Student();
 	        xm.setName("张三");
 	        xm.setAge(18);
-	        xm.setNumber(2019666888);
+	        xm.setNumber(2019999999);
 	        xm.setSex("男");
 	        System.out.println("学生姓名:" + xm.getName());
 	        System.out.println("学生年龄:" + xm.getAge());
@@ -202,7 +202,7 @@ public class java4 {
 	    }
 	}
 # 实验结果
-
+研究生一 姓名张三 年龄:18 编号:2019310999999 性别:男 每年学费：4500 每月工资：1000.0 每年纳税为：480.0 
 
 
 
